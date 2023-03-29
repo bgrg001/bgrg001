@@ -9,3 +9,7 @@ George Green
 - 📫 Let's connect through LinkedIn: https://www.linkedin.com/in/greengeorgecsr 
 - ⚡ Fun fact: I play rugby and volunteer at an LGBT+ charity.
 
+## My first project
+________________________________________________________________________________________
+I created a webpage inspired by a local bakery to show how I can support small businesses in the hospitality and other service sectors. I first create a wireframe giving me guidance on how I would like the website to present itself aesthetically. I used HTML and CSS flexbox to design the layout of the website and built in JavaScript to make it interactive for humans in terms of submitting data. 
+
